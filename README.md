@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mfurkaneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mfurkaneroglu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehmet-furkan-eroglu-851027243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetfurkaneroğlu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmetfurkaneroglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetfurkaneroğlu" height="30" width="40" /></a>
 <a href="https://instagram.com/mehmetfurkaneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetfurkaneroglu" height="30" width="40" /></a>
 <a href="https://medium.com/@mehmetfurkaneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmetfurkaneroglu" height="30" width="40" /></a>
 <a href="https://discord.gg/mehmetfurkaneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mehmetfurkaneroglu" height="30" width="40" /></a>
