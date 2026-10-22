@@ -13,9 +13,9 @@
 ### 🚀 About Me
 
 - 📱 Android developer with **3+ years** of experience building mobile apps in corporate teams
-- 🏢 Currently working at **Çamlıca Basım Yayın** on **Fazilet Takvimi** — a Google Play app with **1M+ downloads** — including its **Wear OS** version
-- 🛒 Previously spent 2 years on the Android team of **LC Waikiki**'s e-commerce app used by millions
-- 🏥 Built and maintained internal mobile modules at **Hisar Hospital Intercontinental**
+- 🏢 Currently developing a Google Play app with **1M+ downloads**, including its **Wear OS** version
+- 🛒 Previously spent 2 years on the Android team of a large-scale **e-commerce app used by millions**
+- 🏥 Built and maintained modules for an internal **healthcare** mobile app
 - 🎓 Computer Engineering graduate, **İstanbul Ticaret University** (full scholarship)
 - 🌱 Currently exploring **Kotlin Multiplatform (KMP)** and modern Android architecture
 
@@ -47,7 +47,7 @@ MVVM · Clean Architecture · Multi-Module · Coroutines / Flow · Hilt / Dagger
 | Project | Description | Stack |
 |---|---|---|
 | [**ComposeNews**](https://github.com/mehmetfurkaneroglu/ComposeNews) | News app built with modern Android practices | Compose · MVVM · Retrofit · Room · Coroutines |
-| **Asude Matematik (KMP)** 🔒 | *(Private — available on request)* Cross-platform student & content tracking app for a math teacher | KMP · Firebase |
+| [**Asude Matematik (KMP)**](https://github.com/mehmetfurkaneroglu/asude-matematik-kmp-showcase) 🔒 | *(Code private — showcase)* Cross-platform student & content tracking app for a math teacher | KMP · Firebase |
 | [**pure-sqlite-todo**](https://github.com/mehmetfurkaneroglu/pure-sqlite-todo) | Exploring Android internals without abstraction libraries | SQLiteOpenHelper · HttpURLConnection |
 | [**Crypto Tracking**](https://github.com/mehmetfurkaneroglu/Crypto-Tracking-App-with-API) | Crypto price tracking app using a public API | Kotlin · Retrofit |
 | [**Meal-App**](https://github.com/mehmetfurkaneroglu/Meal-App) | Recipe app with images and cooking videos | Kotlin · REST API |
