@@ -1,29 +1,64 @@
-![MasterHead](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-program/img/840cee8b164c10b.png)
+<h1 align="center">Hi 👋, I'm Mehmet Furkan Eroğlu</h1>
+<h3 align="center">Android & Kotlin Multiplatform Developer · Computer Engineer</h3>
 
-<h1 align="center">Hi 👋, I'm mehmetfurkaneroglu</h1>
-<h3 align="center">A passionate mobile developer from Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetfurkaneroglu&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetfurkaneroglu" /> </p>
-
-- 💬 Ask me about **everything**
-
-- 📫 How to reach me **mferoglu3@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mfurkaneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mfurkaneroglu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehmetfurkaneroglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetfurkaneroğlu" height="30" width="40" /></a>
-<a href="https://instagram.com/mehmetfurkaneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetfurkaneroglu" height="30" width="40" /></a>
-<a href="https://medium.com/@mehmetfurkaneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmetfurkaneroglu" height="30" width="40" /></a>
-<a href="https://discord.gg/mehmetfurkaneroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mehmetfurkaneroglu" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmetfurkaneroglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mehmetfurkaneroglu@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://x.com/mfurkaneroglu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mehmetfurkaneroglu&style=for-the-badge&color=7F52FF&label=PROFILE+VIEWS" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mehmetfurkaneroglu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehmetfurkaneroglu" /></a></p><br><br><br><br><br><br>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetfurkaneroglu&show_icons=true&locale=en&layout=compact" alt="mehmetfurkaneroglu" /></p>
+- 📱 Android developer with **3+ years** of experience building mobile apps in corporate teams
+- 🏢 Currently working at **Çamlıca Basım Yayın** on **Fazilet Takvimi** — a Google Play app with **1M+ downloads** — including its **Wear OS** version
+- 🛒 Previously spent 2 years on the Android team of **LC Waikiki**'s e-commerce app used by millions
+- 🏥 Built and maintained internal mobile modules at **Hisar Hospital Intercontinental**
+- 🎓 Computer Engineering graduate, **İstanbul Ticaret University** (full scholarship)
+- 🌱 Currently exploring **Kotlin Multiplatform (KMP)** and modern Android architecture
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetfurkaneroglu&" alt="mehmetfurkaneroglu" /></p>
+### 🛠️ Tech Stack
+
+**Mobile**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Wear OS](https://img.shields.io/badge/Wear%20OS-4285F4?style=flat-square&logo=wearos&logoColor=white)
+
+**Architecture & Libraries**
+
+MVVM · Clean Architecture · Multi-Module · Coroutines / Flow · Hilt / Dagger · Retrofit · OkHttp · Room · WorkManager · Navigation · Material 3
+
+**Backend & Tools**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**ComposeNews**](https://github.com/mehmetfurkaneroglu/ComposeNews) | News app built with modern Android practices | Compose · MVVM · Retrofit · Room · Coroutines |
+| **Asude Matematik (KMP)** 🔒 | *(Private — available on request)* Cross-platform student & content tracking app for a math teacher | KMP · Firebase |
+| [**pure-sqlite-todo**](https://github.com/mehmetfurkaneroglu/pure-sqlite-todo) | Exploring Android internals without abstraction libraries | SQLiteOpenHelper · HttpURLConnection |
+| [**Crypto Tracking**](https://github.com/mehmetfurkaneroglu/Crypto-Tracking-App-with-API) | Crypto price tracking app using a public API | Kotlin · Retrofit |
+| [**Meal-App**](https://github.com/mehmetfurkaneroglu/Meal-App) | Recipe app with images and cooking videos | Kotlin · REST API |
+
+### 🏆 Achievements
+
+- **TEKNOFEST 2022** — Team Captain, MAS Yardım (Swarm Robotics Competition)
+- **İTÜCÜ Anadolu Rocket Team** — Mid-Altitude Rocket Competition
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetfurkaneroglu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
